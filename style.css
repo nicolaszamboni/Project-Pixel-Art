@@ -1,0 +1,137 @@
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  background-image: url(3cab434622d9fabfde2f46e9a51380d6.gif);
+}
+
+#title {
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 40px;
+    font-size: 70px;
+    color: white;
+    text-shadow: -2px -2px 0px rgb(0 0 0), -2px 2px 0px rgb(0 0 0), 2px -2px 0px rgb(0 0 0), 2px 0px 0px rgb(0 0 0);
+}
+
+#corpo {
+  display: flex;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(180, 180, 180, 0.562);
+  width: 110px;
+  height: 260px;
+  border-radius: 8%;
+  align-content: space-around
+}
+
+#corpo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#color-palette {
+  list-style-type: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 50px);
+/* justify-content: space-between; */
+  justify-items: center;
+  /* width: 300px; */
+}
+
+.color {
+  border: 1px solid black;
+  height: 30px;
+  width: 30px;
+  border-radius: 100%;
+  margin-bottom: 10px;
+}
+
+.color:hover{
+  height: 35px;
+  width: 35px;
+}
+
+.selected{
+  height: 35px;
+  width: 35px;
+}
+
+.color:first-child {
+  background-color: black;
+}
+
+#pixel-board {
+  margin-left: 40px;
+    display: grid;
+}
+
+.pixel {
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+}
+
+#button-random-color {
+  font-size: 20px;
+    margin-right: 15px;
+    background: linear-gradient(90deg, rgba(160,37,252,1) 0%, rgba(6,196,246,1) 100%);
+    width: 250px;
+    height: 40px;
+    border-radius: 8px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#clear-board {
+    font-size: 20px;
+    margin-right: 15px;
+    background-color: rgb(244, 92, 92);
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#xablau {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 15px;
+}
+#generate-board {
+  width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    font-size: 15px;
+    background-color: rgb(0, 255, 149);
+    margin-right: 15px;
+    margin-bottom: 30px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+footer {
+  margin-top: 20px;
+  color: white;
+}
+
+#board-size {
+  margin-right: 15px;
+  width: 80px;
+  height: 30px;
+  font-size: 20px;
+  border-radius: 8px;
+  text-align: center;
+}
