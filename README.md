@@ -20,7 +20,7 @@ Neste projeto, foi criado um editor de arte com pixels.
 
 # Como acessar a aplicação:
 
-Link da aplicação <a href='https://abreupamm.github.io/project-pixels-art/'>Arte com pixels</a>
+Link da aplicação <a href='https://nicolaszamboni.github.io/Project-Pixel-Art/'>Pixel Art</a>
 
 ## Como foi desenvolvido
 
