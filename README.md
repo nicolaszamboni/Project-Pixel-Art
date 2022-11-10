@@ -1,19 +1,15 @@
-## Boas vindas ao repositório do projeto Pixel Art!
+## Sejam bem vindos ao projeto Pixel Art
 
-- O Pixel-Art é uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels. Para isto foi utilizado `javascript`, `css` e `html`.
+- O Pixel-Art consiste em uma pagina web, onde você poderá utilizar uma paleta de cores funcional que poderá ser utilizada para criar diversos desenhos em forma de pixel. Além disso foi adicionado uma função onde você pode gerar novas cores aleatórias, assim sua arte sempre ficará colorida.
+- Para a realização do projeto foi utilizado `javascript`, `css` e `html`.
 
-Neste projeto, foi criado um editor de arte com pixels.
+## Habilidades Utilizadas
 
-**Ou seja, dada uma paleta de cores e um quadro composto por pixels, é possível que quem usa consiga pintar o que quiser no quadro!** 👩‍🎨
-  
+- Manipulação do JavaScript
 
-## Habilidades
+- Manipulação do CSS
 
-- Manipular o DOM
-
-- Manipular o Javascript
-
-- Manipular o CSS
+- Manipulação do DOM
 
 ---
 
