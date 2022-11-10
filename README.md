@@ -21,3 +21,4 @@ Link da aplicação <a href='https://nicolaszamboni.github.io/Project-Pixel-Art/
 ## Como foi desenvolvido
 
 **💡Veja o exemplo a seguir de como o projeto ficou depois de pronto.
+<img src='imgs/foto.png'>
